@@ -8,7 +8,7 @@
 
 | Role | Name | GitHub Profile |
 | :--- | :--- | :--- |
-| **Team Leader** | Amir Mohamed Sapry | [@username](https://github.com/AmirMo-11) |
+| **Team Leader** | Amir Mohamed Sapry | [AmirMo-11](https://github.com/AmirMo-11) |
 | **Member** | Amir Mohamed Sapry | [@AmirMo-11](https://github.com/AmirMo-11) |
 | **Member** | Hamza Hossam Ahmed | [@username](https://github.com/hamza1798) |
 | **Member** | Hamza Mahmoud Yassin | [@username](https://github.com/username) |
